@@ -1,0 +1,5 @@
+path: /mnt/NewVolume/IIIT-Internship/Week-5/dataset
+train: images_scaled/train
+val: images_scaled/val
+nc: 1
+names: ['Ambulance']
